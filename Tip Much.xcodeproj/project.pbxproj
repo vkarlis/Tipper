@@ -17,7 +17,6 @@
 		8563AB991C69423C007DC73C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8563AB971C69423C007DC73C /* LaunchScreen.storyboard */; };
 		8563ABA41C69423C007DC73C /* TipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8563ABA31C69423C007DC73C /* TipperTests.swift */; };
 		8563ABAF1C69423C007DC73C /* TipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8563ABAE1C69423C007DC73C /* TipperUITests.swift */; };
-		8563ABBD1C694653007DC73C /* DeathtoStock_Clementine5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8563ABBC1C694653007DC73C /* DeathtoStock_Clementine5.png */; };
 		8586A2641CC6F03D0056769C /* TheTippingPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 8586A2631CC6F03D0056769C /* TheTippingPoint.png */; };
 		8586A2651CC6F03D0056769C /* TheTippingPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 8586A2631CC6F03D0056769C /* TheTippingPoint.png */; };
 		8586A2661CC6F03D0056769C /* TheTippingPoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 8586A2631CC6F03D0056769C /* TheTippingPoint.png */; };
@@ -66,7 +65,6 @@
 		8563ABAA1C69423C007DC73C /* Tip Much.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip Much.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8563ABAE1C69423C007DC73C /* TipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipperUITests.swift; sourceTree = "<group>"; };
 		8563ABB01C69423C007DC73C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8563ABBC1C694653007DC73C /* DeathtoStock_Clementine5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DeathtoStock_Clementine5.png; sourceTree = "<group>"; };
 		8586A2631CC6F03D0056769C /* TheTippingPoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TheTippingPoint.png; sourceTree = "<group>"; };
 		8586A2671CC70F4B0056769C /* 120-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "120-1.png"; sourceTree = "<group>"; };
 		8586A26B1CC70F650056769C /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
@@ -124,7 +122,6 @@
 			isa = PBXGroup;
 			children = (
 				856188851CF51A6E00762F78 /* 500.png */,
-				8563ABBC1C694653007DC73C /* DeathtoStock_Clementine5.png */,
 				8563AB8B1C69423C007DC73C /* AppDelegate.swift */,
 				8563AB8D1C69423C007DC73C /* ViewController.swift */,
 				8563AB8F1C69423C007DC73C /* Main.storyboard */,
@@ -268,7 +265,6 @@
 			files = (
 				8586A2641CC6F03D0056769C /* TheTippingPoint.png in Resources */,
 				8586A2681CC70F4B0056769C /* 120-1.png in Resources */,
-				8563ABBD1C694653007DC73C /* DeathtoStock_Clementine5.png in Resources */,
 				856188861CF51A6E00762F78 /* 500.png in Resources */,
 				8586A26C1CC70F650056769C /* 1024.png in Resources */,
 				8563AB991C69423C007DC73C /* LaunchScreen.storyboard in Resources */,
